@@ -1,0 +1,324 @@
+*{
+  padding:0;
+  margin:0;
+}
+html,body{
+  height:100%;
+  width:100%;
+}
+body,h1,h2,h3,h4,h5,h7{
+  font-size:15px;
+  font-weight:700;
+}
+.nav{
+  height:50px;
+  background:#ada6a3;
+}
+.nav-content{
+/*   height:50px; */
+  margin:0 auto;
+  width:1200px;
+}
+.nav li{
+  display:inline-block;
+  height:50px;
+}
+.nav li a{
+  display:block;
+  color:#000;
+  font-size:1.1em;
+  text-decoration:none;
+  height:48px;
+  background:#ccc;
+  padding-left:20px;
+  padding-right:20px;
+  -webkit-transition: 0.8s;
+  -moz-transition: 0.8s;
+  -ms-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+}
+.nav-left li:hover a {
+  background:#eef;
+  -webkit-transition: 0.8s;
+  -moz-transition: 0.8s;
+  -ms-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+}
+.nav-right li:hover a{
+  background:#ddd;
+  -webkit-transition: 0.8;
+  -moz-transition: 0.8;
+  -ms-transition: 0.8;
+  -o-transition: 0.8;
+  transition: 0.8;
+}
+.nav-left{
+  float:left;
+  line-height:50px;
+}
+.nav-left li{
+  background:rgba(40,40,40,0.8);
+}
+.nav-right{
+  float:right;
+  line-height:50px;
+}
+.nav-right li{
+  background:rgba(80,80,80,0.7);
+}
+.nav-right li a{
+  background:#bbb;
+}
+.banner-1{
+  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/1.jpg") no-repeat center center fixed;
+  height:1080px;
+  text-align:center;
+}
+.ba-0{
+  background:rgba(40,40,40,0.2);
+  height:1080px;
+}
+.ba-content-1{
+  margin:0 auto;
+  width:1200px;
+  padding-top:20%;
+}
+.ba-content-1 .content-row{
+  margin-top:-40px;
+}
+.ba-content-1 h1{
+/*   margin-top:50px; */
+  font-size:5em;
+  color:rgba(225,225,225,0.8);
+  text-shadow:2px 1px 2px #000;
+}
+.ba-content-1 h3{
+  font-size:2em;
+  text-shadow:1px 1px 1px #111;
+}
+.list-inline li{
+  display:inline-block;
+  box-sizing: border-box;
+  margin-top:20px;
+  text-shadow:2px 1px 2px rgba(0,0,0,0.5);
+  margin-left:10px;
+  margin-right:10px;
+}
+.btn{
+  display:inline-block;
+  font-weight: 700;
+  background:#c0c0c0;
+  border:2px outset rgba(0,0,0,0.8)
+  color:#000000;
+  text-shadow:2px 1px 2px rgba(0,0,0,0.5);
+  box-shadow:2px 3px 8px #000;
+  letter-spacing: 1px;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+.btn:hover{
+  color:#ffffff;
+  font-weight: 700;
+  background:#000000;
+  border:2px outset rgba(0,0,0,1);
+  transform:scale(1,1);
+  text-shadow:2px 1px 2px #000;
+  box-shadow:2px 3px 8px #000;
+  letter-spacing: 1px;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+hr.works-hr{
+  border:1px outset rgba(255,255,255,0.4);
+  box-shadow:2px 1px 2px #111111;
+}
+.bg-1{
+  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/2.jpg") no-repeat center center fixed;
+  height:1080px;
+}
+.bg-content-1{
+  margin:0 auto;
+  width:1200x;
+  padding-top:15%;
+  padding-left:50px;
+  color:#fff;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.bg-1-left{
+  width:50%;
+  float:right;
+  margin-right:15%;
+  text-align:right;
+}
+.bg-1 .bg-title{
+  font-size:4em;
+  letter-spacing: 3px;
+  text-shadow:2px 2px 3px #666;
+}
+.bg-1 .bg-content{
+  font-size:1.2em;
+  letter-spacing: 1px;
+  margin-top:30px;
+  line-height:1.6em;
+}
+.portraits{
+  width:250px;
+  height:250px;
+  border-radius:50%;
+  float:left;
+  margin-left:20%;
+}
+.banner-2{
+  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/3.jpg") no-repeat center center fixed;
+  height:1080px;
+}
+.banner-2 .ba-2-head{
+  width:1200px;
+  margin:0 auto;
+  text-align:center;
+  padding-top:30px;
+}
+.ba-2-head h2{
+  font-size:3em;
+  color:rgba(0,0,0,0.5);
+  text-shadow:2px 1px 2px #000;
+  letter-spacing:3px;
+}
+.ba-2-head h3{
+  font-size:1.5em;
+  color:rgba(0,0,0,0.8);
+  text-shadow:1px 1px 0px #000;
+}
+.exhibit{
+  margin-top:50px;
+}
+.exhibit li{
+  list-style:none;
+  display:block;
+  float:left;
+  width:33.33333333%;
+  padding-left:10px;
+  padding-right:10px;
+  position:relative;
+}
+.exhibit a{
+  position: relative;
+  text-decoration: none;
+  display: block;
+  font-size:1.5em;
+  width: 100%;
+  height: 250px;
+  border: 1px solid #fff;
+  background: rgba(0,0,0,0.2);
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+.exhibit a:hover{
+  border:1px solid #000;
+  box-shadow:1px 1px 15px #000;
+  background: rgba(7,7,7,0.7);
+  font-size:2.2em;
+  -webkit-transition: 0.8s;
+  -moz-transition: 0.8s;
+  -ms-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+}
+.exhibit a:hover span{
+  color:#c0c0c0;
+}
+.exhibit span{
+  position:relative;
+  display:inline-block;
+  color:#fff;
+  text-shadow:2px 2px 2px #000;
+/*   font-size:1.8em; */
+  line-height:250px;
+  letter-spacing:2px;
+  font-weight:700;
+}
+.exhibit-1{
+  background:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/749520/profile/profile-512_1.jpg") no-repeat center center;
+  background-size:90%;
+}
+.exhibit-2{
+  background:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/749520/profile/profile-512_1.jpg") no-repeat center center;
+  background-size:90%;
+}
+.exhibit-3{
+  background:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/749520/profile/profile-512_1.jpg") no-repeat center center;
+  background-size:90%;
+}
+
+.bg-2{
+  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/4.jpg") no-repeat center center fixed;
+  height:1080px;
+}
+.bg-2-bg{
+  background:rgba(0,0,0,0.1);
+  height:1080px;
+}
+.bg-2 .bg-2-content{
+  padding-top:10%;
+  width:990px;
+  margin:0 auto;
+}
+.bg-2-content h2{
+  display:block;
+  float:left;
+  font-size:2.6em;
+  padding-top:0.8%;
+  color:#fff;
+  line-height:1.3em;
+  text-shadow:1px 1px 2px #000;
+}
+.bg-2-content ul{
+  float:right;
+}
+.bg-2-content .list-inline li{
+  display:block;
+}
+.bg-2-content .list-inline li span {
+  color:#000;
+  font-weight:700;
+}
+.bg-2-content .list-inline li a:hover span{
+  color:#fff;
+  font-weight:700;
+}
+.tail{
+  height:120px;
+  background:#bcc;
+}
+.tail-content{
+  width:1200px;
+  margin:0 auto;
+  padding-top:2%;
+}
+.tail ul{
+  display:block;
+  height:2em;
+  margin-bottom:5px;
+}
+.tail ul li{
+  display:inline-block;
+  float:left;
+  margin-right:14px;
+  font-size:1.2em;
+}
+.tail P{
+  color:rgba(3,3,3,0.5);
+  font-size:0.8em;
+  font-weight:400;
+}
