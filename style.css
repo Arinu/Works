@@ -72,7 +72,7 @@ body,h1,h2,h3,h4,h5,h7{
   background:#bbb;
 }
 .banner-1{
-  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/1.jpg") no-repeat center center fixed;
+  background:url("./image/1.jpg") no-repeat center center fixed;
   height:1080px;
   text-align:center;
 }
@@ -141,7 +141,7 @@ hr.works-hr{
   box-shadow:2px 1px 2px #111111;
 }
 .bg-1{
-  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/2.jpg") no-repeat center center fixed;
+  background:url("./image/2.jpg") no-repeat center center fixed;
   height:1080px;
 }
 .bg-content-1{
@@ -177,7 +177,7 @@ hr.works-hr{
   margin-left:20%;
 }
 .banner-2{
-  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/3.jpg") no-repeat center center fixed;
+  background:url("./image/3.jpg") no-repeat center center fixed;
   height:1080px;
 }
 .banner-2 .ba-2-head{
@@ -249,20 +249,20 @@ hr.works-hr{
   font-weight:700;
 }
 .exhibit-1{
-  background:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/749520/profile/profile-512_1.jpg") no-repeat center center;
+  background:url("./image/profile-512_1.jpg") no-repeat center center;
   background-size:90%;
 }
 .exhibit-2{
-  background:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/749520/profile/profile-512_1.jpg") no-repeat center center;
+  background:url("./image/profile-512_1.jpg") no-repeat center center;
   background-size:90%;
 }
 .exhibit-3{
-  background:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/749520/profile/profile-512_1.jpg") no-repeat center center;
+  background:url("./image/profile-512_1.jpg") no-repeat center center;
   background-size:90%;
 }
 
 .bg-2{
-  background:url("https://raw.githubusercontent.com/Arinu/Works/master/image/4.jpg") no-repeat center center fixed;
+  background:url("./image/4.jpg") no-repeat center center fixed;
   height:1080px;
 }
 .bg-2-bg{
