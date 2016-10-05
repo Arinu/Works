@@ -1,23 +1,23 @@
 
 
-##��ϰ��Ŀ-��Ʒ��(link:https://arinu.github.io/Works/index.html)
+##练习项目-作品集(link:https://arinu.github.io/Works/index.html)
 
-###�����ڴ�link:https://github.com/Arinu/Works
-
-
-Ŀǰ��freecodecamp����ǰ�˿��⣬�ڼ�����һ����ϰ��Ŀ��
+###代码在此link:https://github.com/Arinu/Works
 
 
-���������������Ʒ������Ȼ���ָ������������ο���
+目前在freecodecamp攻略前端课题，期间让做一个练习项目。
 
 
-�����ǵ�һ�νӴ�ǰ�˿�ܣ�ʲôbootstrap��animate���ǵ�һ����˵��
+便是这个【个人作品集】，然后又给出参照样本参考。
 
 
-�������Ŀ��ߣ����а�ť������bootstrap�����õĺܲ��á�
+本次是第一次接触前端框架，什么bootstrap、animate都是第一次听说。
 
 
-Ҳû����������Ӧ��Ч����������������Ŭ����
+在这次项目里边，仅有按钮引用了bootstrap，但用的很不好。
 
 
-��ߴ󲿷ֵ��ı��������Ϲ����
+也没能做出自适应的效果，技术不足仍需努力。
+
+
+里边大部分的文本段落纯属瞎扯。
